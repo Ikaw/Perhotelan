@@ -85,7 +85,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::Perhotelan.Properties.Resources.Background;
+            this.BackgroundImage = global::Perhotelan.Properties.Resources.Background1;
             this.ClientSize = new System.Drawing.Size(1264, 749);
             this.Controls.Add(this.buttonSelesai);
             this.Controls.Add(this.buttonUpdate);
