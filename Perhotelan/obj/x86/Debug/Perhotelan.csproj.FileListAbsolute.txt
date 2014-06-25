@@ -10,3 +10,6 @@ D:\Ika Widya\My College\Prolan\TugasKelompok\Tugas Besar\Perhotelan\Perhotelan\b
 D:\Ika Widya\My College\Prolan\TugasKelompok\Tugas Besar\Perhotelan\Perhotelan\bin\Debug\DbHotel_log.ldf
 D:\Ika Widya\My College\Prolan\TugasKelompok\Tugas Besar\Perhotelan\Perhotelan\bin\Debug\Perhotelan.exe.config
 D:\Ika Widya\My College\Prolan\TugasKelompok\Tugas Besar\Perhotelan\Perhotelan\obj\x86\Debug\Perhotelan.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\bin\Debug\Perhotelan.exe.config
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\Perhotelan.exe
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\Perhotelan.pdb
