@@ -24,3 +24,6 @@ C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\Perhotelan.Fo
 C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\Perhotelan.Properties.Resources.resources
 C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SEMESTER4\PROLAN\Github\Perhotelan\Perhotelan\bin\Debug\Perhotelan.exe.config
+D:\SEMESTER4\PROLAN\Github\Perhotelan\Perhotelan\obj\x86\Debug\Perhotelan.exe
+D:\SEMESTER4\PROLAN\Github\Perhotelan\Perhotelan\obj\x86\Debug\Perhotelan.pdb
