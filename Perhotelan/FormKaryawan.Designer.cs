@@ -39,14 +39,14 @@
             // dataGVKaryawan
             // 
             this.dataGVKaryawan.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGVKaryawan.Location = new System.Drawing.Point(268, 233);
+            this.dataGVKaryawan.Location = new System.Drawing.Point(219, 191);
             this.dataGVKaryawan.Name = "dataGVKaryawan";
             this.dataGVKaryawan.Size = new System.Drawing.Size(817, 504);
             this.dataGVKaryawan.TabIndex = 0;
             // 
             // buttonTambah
             // 
-            this.buttonTambah.Location = new System.Drawing.Point(1111, 312);
+            this.buttonTambah.Location = new System.Drawing.Point(1062, 270);
             this.buttonTambah.Name = "buttonTambah";
             this.buttonTambah.Size = new System.Drawing.Size(130, 52);
             this.buttonTambah.TabIndex = 1;
@@ -56,7 +56,7 @@
             // 
             // buttonHapus
             // 
-            this.buttonHapus.Location = new System.Drawing.Point(1111, 404);
+            this.buttonHapus.Location = new System.Drawing.Point(1062, 362);
             this.buttonHapus.Name = "buttonHapus";
             this.buttonHapus.Size = new System.Drawing.Size(130, 51);
             this.buttonHapus.TabIndex = 2;
@@ -65,7 +65,7 @@
             // 
             // buttonUpdate
             // 
-            this.buttonUpdate.Location = new System.Drawing.Point(1111, 493);
+            this.buttonUpdate.Location = new System.Drawing.Point(1062, 451);
             this.buttonUpdate.Name = "buttonUpdate";
             this.buttonUpdate.Size = new System.Drawing.Size(130, 51);
             this.buttonUpdate.TabIndex = 3;
@@ -74,7 +74,7 @@
             // 
             // buttonSelesai
             // 
-            this.buttonSelesai.Location = new System.Drawing.Point(1111, 585);
+            this.buttonSelesai.Location = new System.Drawing.Point(1062, 543);
             this.buttonSelesai.Name = "buttonSelesai";
             this.buttonSelesai.Size = new System.Drawing.Size(130, 54);
             this.buttonSelesai.TabIndex = 4;
@@ -86,7 +86,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Perhotelan.Properties.Resources.Background1;
-            this.ClientSize = new System.Drawing.Size(1264, 749);
+            this.ClientSize = new System.Drawing.Size(1264, 742);
             this.Controls.Add(this.buttonSelesai);
             this.Controls.Add(this.buttonUpdate);
             this.Controls.Add(this.buttonHapus);

@@ -72,11 +72,23 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormFasilitasKamar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFasilitasKamar.Designer.cs">
+      <DependentUpon>FormFasilitasKamar.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormFO.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormFO.Designer.cs">
       <DependentUpon>FormFO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKamar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKamar.Designer.cs">
+      <DependentUpon>FormKamar.cs</DependentUpon>
     </Compile>
     <Compile Include="FormKaryawan.cs">
       <SubType>Form</SubType>
@@ -89,8 +101,14 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormFasilitasKamar.resx">
+      <DependentUpon>FormFasilitasKamar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormFO.resx">
       <DependentUpon>FormFO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKamar.resx">
+      <DependentUpon>FormKamar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormKaryawan.resx">
       <DependentUpon>FormKaryawan.cs</DependentUpon>
