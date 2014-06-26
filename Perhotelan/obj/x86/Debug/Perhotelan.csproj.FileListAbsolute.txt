@@ -13,3 +13,14 @@ D:\Ika Widya\My College\Prolan\TugasKelompok\Tugas Besar\Perhotelan\Perhotelan\o
 C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\bin\Debug\Perhotelan.exe.config
 C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\Perhotelan.exe
 C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\Perhotelan.pdb
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\bin\Debug\DbHotel.mdf
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\bin\Debug\DbHotel_log.ldf
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\bin\Debug\Perhotelan.exe
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\bin\Debug\Perhotelan.pdb
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\Perhotelan.Form1.resources
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\Perhotelan.FormFO.resources
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\Perhotelan.FormKaryawan.resources
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\Perhotelan.Properties.Resources.resources
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\acer\Documents\GitHub\Perhotelan\Perhotelan\obj\x86\Debug\GenerateResource.write.1.tlog
